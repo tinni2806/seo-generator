@@ -3,7 +3,7 @@
 Generate SEO-compliant product descriptions using product titles and meta-keywords provided by the user.
 Implemented custom LLMChain function from the Langchain and few-shot prompting technique to generate multi-paragraph rich text product description for each product name and its corresponding keywords. Built a gradio app as a frontend demo to showcase the process.
 
-This project is hosted on HuggingFace Spaces: [Live Demo of Product Description Generator](https://huggingface.co/spaces/heliosbrahma/product-description-generator).
+This project is hosted on HuggingFace Spaces: [Live Demo of Product Description Generator](https://huggingface.co/spaces/tinni2806/seo-generator).
 
 ## Steps:-
 - Provide the product name and keywords separated by commas
@@ -20,5 +20,3 @@ Now, run the app from the terminal:<br>
 ```python
 gradio app.py
 ```
-
-_If you like this project, please ⭐ this repository_ :blush:
